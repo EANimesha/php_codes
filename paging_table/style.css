@@ -1,0 +1,14 @@
+/* CSS Document */
+
+.page a{
+	background-color:rgba(217,99,38,1.00);
+	text-decoration:none;
+	font-size:20px;
+	color:rgba(248,238,238,1.00);
+	padding:5px;
+}
+
+
+.page{
+	text-align:center;
+}
